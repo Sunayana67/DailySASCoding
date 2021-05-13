@@ -17,6 +17,7 @@ Date written: May 2021
 
 data demographic;
     infile "/home/u41108928/Ron Cody Data/Mydata.txt"; /* Update the file loction accordingly */
-	input Gender $ Age Height Weight;
-	BMI =  (Weight / 2.2) / (Height*.0254)**2;
+    input Gender $ Age Height Weight;
+    BMI =  (Weight / 2.2) / (Height*.0254)**2;
 run;
+
