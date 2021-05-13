@@ -7,8 +7,8 @@ Data used: Mydata.txt
 
 
 data demographic;
-    infile "/home/u41108928/Ron Cody Data/Mydata.txt"; /* Update the file loction accordingly */
+        infile "/home/u41108928/Ron Cody Data/Mydata.txt"; /* Update the file loction accordingly */
 	input Gender $ Age Height Weight;
 	putlog "PDV after INPUT Statement";
-    putlog _all_;
+        putlog _all_;
 run;
