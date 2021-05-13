@@ -21,3 +21,4 @@ data demographic;
     BMI =  (Weight / 2.2) / (Height*.0254)**2;
 run;
 
+
