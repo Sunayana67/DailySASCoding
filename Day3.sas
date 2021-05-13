@@ -5,7 +5,7 @@ Data used: Mydata.txt
 */
 
 /*
-Program Name: Day2.sas stored in "/home/u41108928/Ron Cody Programming/Program2.2.sas"
+Program Name: Day3.sas stored in "/home/u41108928/Ron Cody Programming/Program2.2.sas"
 
 Purpose of the Program: The program reads in data on height and weight (in inches and pounds, respectively) and computes a body 
 mass index (BMI) for each subject.
