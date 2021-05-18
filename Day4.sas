@@ -34,6 +34,7 @@ proc print data= demographic_comma;
 run;
 
 
+
 filename colonref "/home/u41108928/Ron Cody Data/mydata_colon.txt"  ;
 data demographic_colon;
 	infile colonref dlm= ':';
