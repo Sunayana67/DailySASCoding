@@ -12,3 +12,6 @@ data demographic;
 	putlog "PDV after INPUT Statement";
         putlog _all_;
 run;
+
+
+
