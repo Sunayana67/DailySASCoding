@@ -14,5 +14,3 @@ run;
 Title "Reading data from fixed column" ;
 proc print data= financial;
 run;
-
-
