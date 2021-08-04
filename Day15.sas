@@ -8,4 +8,3 @@ out = daily.wages
 dbms = xlsx
 replace;
 run;
-
